@@ -22,11 +22,6 @@
   </extensions>
 
   <actions>
-    <!-- Add your actions here -->
-    <action id="KM" class="com.tbidea.plugin.KotlinMvpAction" text="KotlinMvp" description="create mvp of kotlin">
-      <add-to-group group-id="NewGroup" anchor="first"/>
-      <keyboard-shortcut keymap="$default" first-keystroke="shift V"/>
-    </action>
     <action id="MVPCreator.MVPCreateAction" class="com.tbidea.plugin.action.MVPCreateAction" text="MVPManager"
             description="Create MVP class">
       <add-to-group group-id="NewGroup" anchor="first"/>
