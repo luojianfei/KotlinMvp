@@ -1,0 +1,6 @@
+<plugins>
+
+  <plugin id="MVPCreator.MVPCreateAction" url="https://raw.githubusercontent.com/luojianfei/KotlinMvp/master/KotlinMvp.jar" version="1.0"/>
+  <plugin id="MVPCreator.MVPChangeAction" url="https://codeload.github.com/luojianfei/KotlinMvp/zip/master" version="1.0"/>
+
+</plugins>
