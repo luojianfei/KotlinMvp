@@ -27,6 +27,14 @@
       <add-to-group group-id="NewGroup" anchor="first"/>
       <keyboard-shortcut keymap="$default" first-keystroke="shift V"/>
     </action>
+    <action id="MVPCreator.MVPCreateAction" class="com.tbidea.plugin.action.MVPCreateAction" text="MVPManager"
+            description="Create MVP class">
+      <add-to-group group-id="NewGroup" anchor="first"/>
+    </action>
+    <action id="MVPCreator.MVPChangeAction" class="com.tbidea.plugin.action.MVPChangeAction" text="MVPManager"
+            description="Change mvp by it.">
+      <add-to-group group-id="GenerateGroup" anchor="first"/>
+    </action>
   </actions>
 
 </idea-plugin>
